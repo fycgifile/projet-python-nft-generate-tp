@@ -1,0 +1,35 @@
+{
+  "attributes": [
+    {
+      "Background": "background6.png"
+    },
+    {
+      "Face": "face2.png"
+    },
+    {
+      "Eyes": "eyes3.png"
+    },
+    {
+      "Mouth": "mouth4.png"
+    },
+    {
+      "Ears": "ears4.png"
+    },
+    {
+      "Beard": "beard4.png"
+    },
+    {
+      "Nose": "nose1.png"
+    },
+    {
+      "Hair": "hair4.png"
+    },
+    {
+      "image": "8.png"
+    }
+  ],
+  "description": "8",
+  "external_url": "https://example.com/?token_id=8",
+  "image": "images_generate/collection_test/metadata/8",
+  "name": "8"
+}

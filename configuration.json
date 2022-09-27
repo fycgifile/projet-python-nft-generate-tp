@@ -1,0 +1,58 @@
+{
+    "configuration": [
+        {
+            "id": 1,
+            "name": "background",
+            "path": "Background",
+            "require": "true"
+        },
+        {
+            "id": 2,
+            "name": "face",
+            "path": "Face",
+            "require": "true"
+        },
+        {
+            "id": 3,
+            "name": "eyes",
+            "path": "Eyes",
+            "require": "true"
+        },
+        {
+            "id": 4,
+            "name": "mouth",
+            "path": "Mouth",
+            "require": "true"
+        },
+        {
+            "id": 5,
+            "name": "ears",
+            "path": "Ears",
+            "require": "true"
+        },
+        {
+            "id": 6,
+            "name": "beard",
+            "path": "Beard",
+            "require": "true"
+        },
+        {
+            "id": 7,
+            "name": "nose",
+            "path": "Nose",
+            "require": "true"
+        },
+        {
+            "id": 8,
+            "name": "hair",
+            "path": "Hair",
+            "require": "true"
+        },
+        {
+            "id": 9,
+            "name": "acces",
+            "path": "Access",
+            "require": "false"
+        }
+    ]
+}
